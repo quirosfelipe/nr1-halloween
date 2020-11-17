@@ -1,11 +1,8 @@
 {
-  "tagline": "This is the tagline for Halloween!",
+  "tagline": "Tagline for Halloween!",
   "details": "Details about why Halloween is useful",
   "repository": "https://github.com/quirosfelipe/nr1-halloween",
-  "whatsNew": " \n Feat: This is the newest version of Halloween\n 
-   -Feat: Feat one\n
-   -Feat: Feat two\n
-   Carriage return?\n-Feat: Published by Felipe",
+  "whatsNew": " \n Feat: This is the newest version of Halloween\n -Feat: Feat one\n -Feat: Feat two\n Carriage return?\n-Feat: Published by Felipe",
   "support": {
     "email": {
       "address": ""
