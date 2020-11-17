@@ -1,0 +1,7 @@
+{
+    "schemaType": "LAUNCHER",
+    "id": "felipe-nerdpack1-launcher",
+    "displayName": "FelipeNerdpack1Launcher",
+    "description": "Describe me",
+    "rootNerdletId": "felipe-nerdpack1-nerdlet"
+}
